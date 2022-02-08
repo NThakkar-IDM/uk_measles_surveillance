@@ -1,3 +1,8 @@
+# Model outputs, serialized pandas objects
+# and figures.
+*.pkl
+*.png
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
