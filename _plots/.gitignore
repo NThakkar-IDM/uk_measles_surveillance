@@ -1,0 +1,4 @@
+# Model outputs, specifically figures
+*.png
+*.pdf
+*.svg
