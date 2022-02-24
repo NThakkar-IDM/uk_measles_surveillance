@@ -1,7 +1,7 @@
 # uk_measles_surveillance
 Estimating dynamic measles reporting rates in the pre-vaccine-era UK
 
-This is a repository of Python 3.8 code associated with the preprint *A modeling approach for estimating dynamic measles case detection rates*, 2022. In the paper, I fit a measles transmission model to the 60 city, United Kingdom data set, and I use that model to better understand measles case detection over time.
+This is a repository of Python 3.8 code associated with the preprint [*A modeling approach for estimating dynamic measles case detection rates*](https://arxiv.org/abs/2202.11222), 2022. In the paper, I fit a measles transmission model to the 60 city, United Kingdom data set, and I use that model to better understand measles case detection over time.
 
 The main three scripts are:
 1. `FullDataVis.py`, which makes the paper's first figure.
